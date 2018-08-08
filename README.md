@@ -8,7 +8,6 @@
 - Gimena
 
 ## Proyectos
----
 ### Material de ayuda
     Carpeta con contenido que puede o no resultar util al momento de realisar los laboratoirios.
 ### Laboratorio 1
